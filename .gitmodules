@@ -7,3 +7,8 @@
 	path = xmarts/xmarts-property-management
 	url = git@github.com:xmarts/xmarts-property-management.git
 	branch = 13.0
+
+[submodule "xmarts/branch-extend-iuniversal"]
+	path = xmarts/branch-extend-iuniversal
+	url = git@github.com:xmarts/branch-extend-iuniversal.git
+	branch = 13.0
