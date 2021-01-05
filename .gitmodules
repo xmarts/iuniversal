@@ -12,3 +12,8 @@
 	path = xmarts/branch-extend-iuniversal
 	url = git@github.com:xmarts/branch-extend-iuniversal.git
 	branch = 13.0
+
+[submodule "xmarts/purchase-subscriptions"]
+	path = xmarts/purchase-subscriptions
+	url = git@github.com:xmarts/purchase-subscriptions.git
+	branch = master
