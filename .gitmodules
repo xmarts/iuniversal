@@ -17,3 +17,8 @@
 	path = xmarts/purchase-subscriptions
 	url = git@github.com:xmarts/purchase-subscriptions.git
 	branch = master
+
+[submodule "xmarts/portal-payments"]
+	path = xmarts/portal-payments
+	url = git@github.com:xmarts/portal-payments.git
+	branch = 14.0
