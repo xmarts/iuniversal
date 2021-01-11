@@ -32,3 +32,6 @@
 	path = xmarts/l10n-mx-xml-invoice
 	url = git@github.com:xmarts/l10n-mx-xml-invoice.git
 	branch = 14.0
+[submodule "purchase-requests"]
+	path = purchase-requests
+	url = git@github.com:xmarts/purchase-requests.git
