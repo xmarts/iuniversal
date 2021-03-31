@@ -18,11 +18,6 @@
 	url = git@github.com:xmarts/portal-payments.git
 	branch = 14.0
 
-[submodule "xmarts/l10n-mx-xml-invoice"]
-	path = xmarts/l10n-mx-xml-invoice
-	url = git@github.com:xmarts/l10n-mx-xml-invoice.git
-	branch = 14.0
-
 [submodule "xmarts/purchase-requests"]
 	path = xmarts/purchase-requests
 	url = git@github.com:xmarts/purchase-requests.git
