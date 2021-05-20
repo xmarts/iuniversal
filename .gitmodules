@@ -36,11 +36,6 @@
 	path = purchase-subscriptions
 	url = git@github.com:xmarts/purchase-subscriptions.git
 
-[submodule "xmarts/print_journal_entries"]
-	path = xmarts/print_journal_entries
-	url = git@github.com:xmarts/print_journal_entries.git
-	branch = master
-
 [submodule "xmarts/ks-dashboard-ninja"]
 	path = xmarts/ks-dashboard-ninja
 	url = git@github.com:xmarts/ks-dashboard-ninja.git
